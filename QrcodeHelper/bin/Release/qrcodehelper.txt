@@ -1,5 +1,0 @@
-QrcodeHelper.exe "hidden qrcode" "D:\sheracc\pic\123" 
-
-
-two argument first qrcode to print 
-second path where want to store file

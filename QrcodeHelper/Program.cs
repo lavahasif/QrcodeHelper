@@ -66,7 +66,7 @@ namespace QrcodeHelper
         {
             foreach (var s in qrnumber.Split(Convert.ToChar(",")))
             {
-                getQrBitmap(s).Save(path + @"\" + s.Replace("\n", "") + ".png");
+                getQrBitmap(s).Save(path + @"\" + s.Replace("\n", "") + ".jpeg");
             }
 
             return true;
@@ -90,7 +90,7 @@ namespace QrcodeHelper
                     ico.Save(f);
                 }
 
-                getQrBitmap(s).Save(path + @"\" + s.Replace("\n", "") + ".png");
+                getQrBitmap(s).Save(path + @"\" + s.Replace("\n", "") + ".jpeg");
             }
         }
 
@@ -110,7 +110,8 @@ namespace QrcodeHelper
                 using (Bitmap Cbitmap = getQrBitmap(s))
                 {
                     var convertTo24Bpp = ConvertTo24bpp(Cbitmap);
-                    convertTo24Bpp.Save(path + @"\" + s.Replace("\n", "") + ".png");
+                    // convertTo24Bpp.Save();
+                    convertTo24Bpp.Save(path + @"\" + s.Replace("\n", "") + ".jpg",System.Drawing.Imaging.ImageFormat.Jpeg);
                 }
             }
         }

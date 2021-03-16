@@ -4,11 +4,29 @@
     <projectFile>QrcodeHelper/QrcodeHelper.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="231dab87-79ac-4629-9481-e40a8c6e3b90" name="Default Changelist" comment="" />
+    <list default="true" id="231dab87-79ac-4629-9481-e40a8c6e3b90" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.QrcodeHelper/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.QrcodeHelper/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QrcodeHelper/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/QrcodeHelper/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QrcodeHelper/bin/Debug/QrcodeHelper.exe" beforeDir="false" afterPath="$PROJECT_DIR$/QrcodeHelper/bin/Debug/QrcodeHelper.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QrcodeHelper/bin/Debug/QrcodeHelper.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/QrcodeHelper/bin/Debug/QrcodeHelper.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QrcodeHelper/bin/Release/QrcodeHelper.exe" beforeDir="false" afterPath="$PROJECT_DIR$/QrcodeHelper/bin/Release/QrcodeHelper.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QrcodeHelper/bin/Release/QrcodeHelper.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/QrcodeHelper/bin/Release/QrcodeHelper.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QrcodeHelper/bin/Release/qrcodehelper.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QrcodeHelper/bin/Release/qrhelper.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QrcodeHelper/obj/Debug/QrcodeHelper.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/QrcodeHelper/obj/Debug/QrcodeHelper.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QrcodeHelper/obj/Debug/QrcodeHelper.exe" beforeDir="false" afterPath="$PROJECT_DIR$/QrcodeHelper/obj/Debug/QrcodeHelper.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QrcodeHelper/obj/Debug/QrcodeHelper.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/QrcodeHelper/obj/Debug/QrcodeHelper.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QrcodeHelper/obj/Release/QrcodeHelper.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/QrcodeHelper/obj/Release/QrcodeHelper.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QrcodeHelper/obj/Release/QrcodeHelper.exe" beforeDir="false" afterPath="$PROJECT_DIR$/QrcodeHelper/obj/Release/QrcodeHelper.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QrcodeHelper/obj/Release/QrcodeHelper.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/QrcodeHelper/obj/Release/QrcodeHelper.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -16,6 +34,7 @@
     </changedPaths>
   </component>
   <component name="ProjectId" id="1ppLeSNciFn8BSji3hOpVCIRWjJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -54,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1615875179683</updated>
-      <workItem from="1615875223528" duration="4793000" />
+      <workItem from="1615875223528" duration="8027000" />
     </task>
     <servers />
   </component>
