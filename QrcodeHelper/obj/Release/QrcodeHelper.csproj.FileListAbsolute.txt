@@ -1,0 +1,8 @@
+C:\Users\Hasif\RiderProjects\QrcodeHelper\QrcodeHelper\bin\Release\QrcodeHelper.exe
+C:\Users\Hasif\RiderProjects\QrcodeHelper\QrcodeHelper\bin\Release\QrcodeHelper.pdb
+C:\Users\Hasif\RiderProjects\QrcodeHelper\QrcodeHelper\bin\Release\QRCoder.dll
+C:\Users\Hasif\RiderProjects\QrcodeHelper\QrcodeHelper\obj\Release\QrcodeHelper.csprojAssemblyReference.cache
+C:\Users\Hasif\RiderProjects\QrcodeHelper\QrcodeHelper\obj\Release\QrcodeHelper.csproj.CoreCompileInputs.cache
+C:\Users\Hasif\RiderProjects\QrcodeHelper\QrcodeHelper\obj\Release\QrcodeHelper.csproj.CopyComplete
+C:\Users\Hasif\RiderProjects\QrcodeHelper\QrcodeHelper\obj\Release\QrcodeHelper.exe
+C:\Users\Hasif\RiderProjects\QrcodeHelper\QrcodeHelper\obj\Release\QrcodeHelper.pdb
